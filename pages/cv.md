@@ -146,6 +146,7 @@ customers, negotiation and contract signing
 * C, C++
 * Java
 * JavaScript
+* Solidity
 * Python
 * Bash scripting
 
@@ -155,6 +156,12 @@ customers, negotiation and contract signing
 * Docker
 * Podman
 * Buildah
+
+## Blockchain
+
+* Ethereum smart contracts
+* Truffle suite
+* Remix
 
 ### DevOps Tools
 
