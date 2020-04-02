@@ -157,11 +157,16 @@ customers, negotiation and contract signing
 * Podman
 * Buildah
 
-## Blockchain
+### Blockchain
 
 * Ethereum smart contracts
 * Truffle suite
 * Remix
+
+### Static site generators
+
+* Hugo
+* Jekyll
 
 ### DevOps Tools
 
