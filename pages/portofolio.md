@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+
+## Writing samples
+
+<!-- Deploy Serverless Functions with OpenFaaS -->
+<!-- Everything You Need to Know About Buildah -->
+<!-- Podman for Docker Users -->
+* [First Steps with the Kubernetes Operator](https://appfleet.com/blog/first-steps-with-the-kubernetes-operator/)
+* [How to Build A Kubernetes Operator](https://appfleet.com/blog/how-to-build-a-kubernetes-operator/)
+* [Sysdig: What It Is and How to Use It](https://appfleet.com/blog/sysdig-what-it-is-and-how-to-use-it/)
+* [Monitor Your Containers with Csysdig](https://appfleet.com/blog/monitor-your-containers-with-csysdig/)
+* [Troubleshooting Containers with Sysdig Inspect](https://appfleet.com/blog/troubleshooting-containers-with-sysdig-inspect/)
+* [How to Set Up Jenkins on Kubernetes](https://appfleet.com/blog/how-to-set-up-jenkins-on-kubernetes/)
+* [Debug a Node.js Application Running in a Docker Container](https://appfleet.com/blog/debug-a-node-js-application-running-in-a-docker-container/)
+* [Top 3 Tools For Monitoring Python AWS Lambda](https://dashbird.io/blog/top-tools-for-monitoring-python-aws-lambda/)
+* [How to Get an Overview of C# Lambdas](https://dashbird.io/blog/how-to-get-overview-c-lambdas/)
+* [How to Optimize AWS Lambda Costs (With Examples)](https://dashbird.io/blog/how-to-optimize-aws-lambda-cost-with-examples/)
+
+## CryptoZombies
+
+[CryptoZombies](https://cryptozombies.io/) is an interactive school that teaches all things technical about blockchains.
+
+## Doc sets I've worked on
+
+* [Portworx](https://docs.portworx.com/). Portworx is the #1 Kubernetes
+storage platform.
+* [Loom Developer Docs](https://loomx.io/developers/). Loom Network is a multichain interoperability platform — live in production — that's connected to other major blockchains such as Ethereum, Binance Chain, and Tron.
+
+
+## Code samples
+
+* [Loom Examples GitHub Repository](https://github.com/loomnetwork/loom-examples)
