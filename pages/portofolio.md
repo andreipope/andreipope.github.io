@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 ## Writing samples
 
 <!-- Deploy Serverless Functions with OpenFaaS -->
