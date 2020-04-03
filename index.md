@@ -6,6 +6,10 @@ My name is Andrei and I'm an experienced technical writer. I worked for over 10 
 
 I like to not only get things done but get things done in the proper way.
 
+## Tutorials
+
+* [Create a local Kubernetes cluster with Multipass and K3s](/tutorials/create-a-cluster-with-multipass-and-k3s)
+
 ## Writing samples
 
 <!-- Deploy Serverless Functions with OpenFaaS -->
