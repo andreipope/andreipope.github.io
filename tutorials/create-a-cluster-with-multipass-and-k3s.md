@@ -244,4 +244,5 @@ K3s is a lightweight Kubernetes distribution geared towards resource-constrained
 
 Congratulations on completing this tutorial, where you learned how to deploy Kubernetes cluster with Multipath and K3s.
 
+Thanks for reading!
 <!-- To learn even more, continue with the following tutorials. -->
