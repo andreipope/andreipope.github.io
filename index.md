@@ -8,6 +8,7 @@ I like to not only get things done but get things done in the proper way.
 
 ## Tutorials
 
+* [Containerize a JavaScript application](/tutorials/containerize-javascript-application)
 * [Create a local Kubernetes cluster with Multipass and K3s](/tutorials/create-a-cluster-with-multipass-and-k3s)
 
 ## Writing samples
