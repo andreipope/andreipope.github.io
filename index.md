@@ -2,9 +2,11 @@
 layout: default
 ---
 
+<!--
 My name is Andrei and I'm an experienced technical writer. I worked for over 10 years for one of the Fortune 500 companies: Hewlett-Packard Enterprise. I love to write in an accessible style, to break down difficult subjects and make them fresh, relevant, and engaging.
 
 I like to not only get things done but get things done in the proper way.
+-->
 
 ## Tutorials
 
