@@ -19,9 +19,9 @@ You will learn to:
 
 ## Prerequisites
 
-* **Node.js**. If Node.js is not installed on your system, you can download the installer from the [Downloads](https://nodejs.org/en/download/) page.
-* **Docker**. For details on installing Docker, see the [Install Docker](https://docs.docker.com/v17.12/install/) page.
-* A **Docker Hub account**. See the [Docker Hub](https://hub.docker.com/) page for details about creating a new account.
+* {% include prerequisites-node-js.md %}
+* {% include prerequisites-docker.md %}
+* {% include prerequisites-docker-hub.md %}
 
 ## Create a JavaScript application with NuxtJS
 
@@ -62,7 +62,7 @@ You will learn to:
         npm run build
         npm run start
     ```
-    
+
     >Note that the above output was truncated for brevity.
 
     The `npx create-nuxt-app` installs the dependencies, and then creates the default directory structure needed by a NuxtJS application:
@@ -143,7 +143,7 @@ You will learn to:
     CMD [ "npm", "run", "dev" ]
     ```
 
-    This file provides the instructions the Docker engine needs to create a container image. The way this works is that the Docker engine creates a layer for each instruction found in the `Dockerfile` and places it atop of the previous layers. 
+    This file provides the instructions the Docker engine needs to create a container image. The way this works is that the Docker engine creates a layer for each instruction found in the `Dockerfile` and places it atop of the previous layers.
 
     The following list explains each line:
 
@@ -165,7 +165,7 @@ You will learn to:
 ## Build an image
 
 1.  Build an image for your NuxtJS application. Enter the `docker build` command, and use the `-t` flag to specify the name of the image.
-    >Note that the name of the image is in the following format `<YOUR-DOCKER-HUB-USERNAME>/<IMAGE_NAME>`. 
+    >Note that the name of the image is in the following format `<YOUR-DOCKER-HUB-USERNAME>/<IMAGE_NAME>`.
 
     The following example command builds an image named `andreipopescu12/nuxtjs-helloworld`, and sets the path to the context to the current directory:
 
@@ -228,7 +228,7 @@ You will learn to:
     ```
     REPOSITORY                          TAG                 IMAGE ID            CREATED             SIZE
     andreipopescu12/nuxtjs-helloworld   latest              61c719d0055b        4 minutes ago       1.02GB
-    node                                10                  01b816051d34        5 days ago          911MB 
+    node                                10                  01b816051d34        5 days ago          911MB
     ```
 
 ## Run your application as a container
@@ -339,8 +339,8 @@ You will learn to:
 
     ```Bash
     docker push andreipopescu12/nuxtjs-helloworld
-    ``` 
-    
+    ```
+
     ```
     The push refers to repository [docker.io/andreipopescu12/nuxtjs-helloworld]
     d3ff542cca46: Pushed
@@ -371,7 +371,7 @@ You will learn to:
     Deleted: sha256:de05a90681ca38f2c3c80da9429b76314edec9352ba34c93e6383f34d76081ee
     Deleted: sha256:374518fec47eeb2095d1424f594fb06f20106b6ad18e38abc79d90a85cec93a2
     Deleted: sha256:fad0616f58b3d990ed5c552bf21e5eb815667b92a273fbfe16c2a6e286bcf1f7
-    Deleted: sha256:a8d4d9e1b7ac3c1b2da0c2d5cddb863895c9246f618bac467cced4b02c2cfbbf 
+    Deleted: sha256:a8d4d9e1b7ac3c1b2da0c2d5cddb863895c9246f618bac467cced4b02c2cfbbf
     ```
 
 
@@ -409,7 +409,7 @@ You will learn to:
     ```Bash
     docker ps
     ```
-    
+
     ```
     CONTAINER ID        IMAGE                               COMMAND                  CREATED             STATUS              PORTS                    NAMES
     e1e7fa715378        andreipopescu12/nuxtjs-helloworld   "docker-entrypoint.s…"   57 seconds ago      Up 56 seconds       0.0.0.0:3000->3000/tcp   beautiful_pare

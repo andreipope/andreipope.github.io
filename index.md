@@ -6,18 +6,23 @@ My name is Andrei and I'm an experienced technical writer. I worked for over 10 
 
 I like to not only get things done but get things done in the proper way.
 
-Below are a few samples of my writing
+Below are a few samples of my writing.
 
 ## Tutorials
 
+### Docker series
+
 * [Containerize a JavaScript application](/tutorials/containerize-javascript-application)
+<!--* [Deploy a multi-container application with docker-compose](/tutorials/deploy-multi-container-application-docker-compose)-->
+
+### Kubernetes series
 * [Create a local Kubernetes cluster with Multipass and K3s](/tutorials/create-a-cluster-with-multipass-and-k3s)
 
 ## Writing samples
 
 <!-- Deploy Serverless Functions with OpenFaaS -->
 <!-- Everything You Need to Know About Buildah -->
-<!-- Podman for Docker Users -->
+*[Podman for Docker Users](hhttps://appfleet.com/blog/podman-for-docker-users/)
 * [First Steps with the Kubernetes Operator](https://appfleet.com/blog/first-steps-with-the-kubernetes-operator/)
 * [How to Build A Kubernetes Operator](https://appfleet.com/blog/how-to-build-a-kubernetes-operator/)
 * [Sysdig: What It Is and How to Use It](https://appfleet.com/blog/sysdig-what-it-is-and-how-to-use-it/)

@@ -2,6 +2,7 @@
 title: Create a local Kubernetes cluster with Multipass and K3s
 description: This tutorial is designed to show how you can create a local Kubernetes cluster with Multipass and K3s.
 layout: tutorial
+collection: tutorials
 ---
 
 This tutorial is designed to show how you can create a local Kubernetes cluster with Multipass and K3s.

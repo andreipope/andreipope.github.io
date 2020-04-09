@@ -1,0 +1,1 @@
+A **Docker Hub account**. See the [Docker Hub](https://hub.docker.com/) page for details about creating a new account.
