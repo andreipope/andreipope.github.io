@@ -6,6 +6,8 @@ layout: testimonials
 
 * “It was a pleasure working with, Andrei. He was quick to respond to messages and delivered as expected. He has a great eye for detail”
 
+* Andrei has been very supportive, loyal and professional during our whole collaboration, which lasted ~ 2 years. Thanks Andrei!
+
 * "We have just finished checking your article and the Engineers were delighted with your writing. They were commenting about your high knowledge about the topic and which could be the next topic to repeat such a great performance. Congratulations! "
 
 * “Thanks so much for the article. I have just one thing to say: so good you are! This article was fantastic. Amazing job! The examples and the links were very well connected with the text. And, even my English is not good enough, I understood the meaning of the text without effort. I am so happy with the result.”

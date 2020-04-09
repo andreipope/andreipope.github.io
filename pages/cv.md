@@ -40,7 +40,7 @@ layout: cv
 
 
 ### Cryptomaniaks.com, Director of Content
-**February 2018- PRESENT**
+**February 2018- April 2020**
 > CryptoManiaks is an authoritative cryptocurrency learning platform dedicated to newcomers and beginners. The team is comprised of cryptocurrency investors from all over the globe, and our members come from traditional industries such as finance and engineering to more modern professions like full stack developers and data scientists.
 
 **Key responsibilities:**
