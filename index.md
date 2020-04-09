@@ -22,7 +22,7 @@ Below are a few samples of my writing.
 
 <!-- Deploy Serverless Functions with OpenFaaS -->
 <!-- Everything You Need to Know About Buildah -->
-* [Podman for Docker Users](hhttps://appfleet.com/blog/podman-for-docker-users/)
+* [Podman for Docker Users](https://appfleet.com/blog/podman-for-docker-users/)
 * [First Steps with the Kubernetes Operator](https://appfleet.com/blog/first-steps-with-the-kubernetes-operator/)
 * [How to Build A Kubernetes Operator](https://appfleet.com/blog/how-to-build-a-kubernetes-operator/)
 * [Sysdig: What It Is and How to Use It](https://appfleet.com/blog/sysdig-what-it-is-and-how-to-use-it/)
