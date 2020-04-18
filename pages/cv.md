@@ -132,8 +132,12 @@ customers, negotiation and contract signing
 **January 2001 - June 2004**
 > IT Administrator for a heterogeneous environment (Windows & Linux)
 
+## Education
+
+* Computer Science, Polytechnics University, Bucharest (October 1998 - June 2002)
 
 ##  Certifications
+
 * Project Management (CODECS Romania/The Open University UK) TOGAF (The Open Group Architecture Framework)
 * CompTIA Security+
 * System Testing- Quality Center
