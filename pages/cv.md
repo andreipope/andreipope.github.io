@@ -12,7 +12,7 @@ layout: cv
 ## EXPERIENCE
 
 ### Portworx, Inc., Technical Writer (Contractor)
-**July 2019 - PRESENT**
+**March 2019 - PRESENT**
 > Portworx Enterprise is the Kubernetes storage platform trusted in production by the world’s leading enterprises.
 
 **Key responsibilities:**
