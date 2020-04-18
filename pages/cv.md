@@ -14,9 +14,10 @@ layout: cv
 ### Portworx, Inc., Technical Writer (Contractor)
 **July 2019 - PRESENT**
 > Portworx Enterprise is the Kubernetes storage platform trusted in production by the world’s leading enterprises.
+
+**Key responsibilities:**
 * Write documentation for [Portworx products](https://docs.portworx.com)
 * Maintain and improve the documentation toolchain
-
 
 ### Loom Network Inc., Technical Writer and Developer Support
 **January 2018- PRESENT**
