@@ -138,7 +138,8 @@ customers, negotiation and contract signing
 
 ##  Certifications
 
-* Project Management (CODECS Romania/The Open University UK) TOGAF (The Open Group Architecture Framework)
+* Project Management (CODECS Romania/The Open University UK)
+* TOGAF (The Open Group Architecture Framework)
 * CompTIA Security+
 * System Testing- Quality Center
 * VMWare vSphere
