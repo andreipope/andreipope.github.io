@@ -152,7 +152,7 @@ You will learn to:
     * `COPY . /usr/src/app/` is used to copy files from the host to the container
     * `RUN npm install` installs the dependencies
     * `EXPOSE 3000` specifies that your container listens on port `3000`
-    * `CMD [ "node", "app.js" ]` sets the default command (`nmp run dev`) that'll be run when an instance of your container image is deployed
+    * `CMD [ "npm", "run", "dev" ]` sets the default command (`nmp run dev`) that'll be run when an instance of your container image is deployed
 
 2. To specify the list of files the Docker engine should ignore when generating  the build context, create a file called `.dockerignore` with the following content:
 
