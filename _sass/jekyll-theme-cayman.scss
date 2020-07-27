@@ -1,7 +1,8 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700'); */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -182,7 +183,7 @@ a {
     padding: 2rem 1rem;
     font-size: 1rem;
   }
-  
+
   kbd {
     background-color: #fafbfc;
     border: 1px solid #c6cbd1;
