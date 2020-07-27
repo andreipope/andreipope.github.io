@@ -2,7 +2,7 @@
 layout: contact
 ---
 
-
+<!--
 <form
   action="https://formspree.io/xaydypzg"
   method="POST"
@@ -19,3 +19,5 @@ layout: contact
 
   <button type="submit">Send</button>
 </form>
+
+-->
