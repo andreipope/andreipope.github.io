@@ -184,7 +184,7 @@ customers, negotiation and contract signing
 
 ### DevOps Tools
 
-* Graphana
+* Grafana
 * Prometheus
 * Kibana
 * Jenkins
