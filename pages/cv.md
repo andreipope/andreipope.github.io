@@ -89,7 +89,8 @@ the audience’s attention
 * Balances clients’ needs and protects HPE commercial needs
 * Conduct presentations for CEO/CTO level audiences
 
-### Hewlett-Packard Enterprise, Bucharest​ - Presales Manager February 2011 - August 2014
+### Hewlett-Packard Enterprise, Bucharest​ - Presales Manager
+**February 2011 - August 2014**
 >Managed the HPE Romania Presales Team, 6 direct reports.
 
 **Key responsibilities:**
