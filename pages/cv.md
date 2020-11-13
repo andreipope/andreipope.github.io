@@ -16,7 +16,7 @@ layout: cv
 > Portworx Enterprise is the Kubernetes storage platform trusted in production by the world’s leading enterprises.
 
 **Key responsibilities:**
-* Write documentation for [Portworx products](https://docs.portworx.com)
+* Write documentation for [Portworx Enterprise](https://docs.portworx.com) and [PX-Backup](https://backup.docs.portworx.com)
 * Maintain and improve the documentation toolchain
 
 ### Loom Network Inc., Technical Writer and Developer Support
