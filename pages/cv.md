@@ -24,15 +24,15 @@ layout: cv
 > Loom Network is a multichain interop platform live in production since early 2018. Optimized for scaling high-performance dapps that require a fast and smooth user experience, the network allows dapps to offer a UX comparable to traditional applications and onboard new users without the friction of needing to download crypto wallet software.
 
 **Key responsibilities:**
-* Write and maintain [developer documentation](​https://loomx.io/developers/en/) for Loom Network
+* Write and maintain [developer documentation](https://loomx.io/developers/en) for Loom Network
 * Write and publish release notes
-* Develop new [CryptoZombies](https://cryptozombies.io/​) lessons
-* Create and maintain the Loom examples [GitHub repository](​https://github.com/loomnetwork/loom-examples​)
+* Develop new [CryptoZombies](https://cryptozombies.io/) lessons
+* Create and maintain the Loom examples [GitHub repository](https://github.com/loomnetwork/loom-examples)
 * Provide developer support
 * Provide validator support
 
 ### Appfleet, Technical Writer
-**February 2020- March 2020**
+**February 2020- June 2020**
 > Appfleet is a cloud-based container hosting platform that allows developers to deploy their code in any language, framework or technology.
 
 **Key responsibilities:**
