@@ -31,14 +31,14 @@ layout: cv
 * Provide developer support
 * Provide validator support
 
-### Appfleet, Technical Writer
+### Appfleet, Technical Writer (Contractor)
 **February 2020- June 2020**
 > Appfleet is a cloud-based container hosting platform that allows developers to deploy their code in any language, framework or technology.
 
 **Key responsibilities:**
 * Create Docker and Kubernetes tutorials for Appfleet.
 
-### Interactive Data Partners, Ed Tech Project Manager
+### Interactive Data Partners, Ed Tech Project Manager (Contractor)
 **January 2019- May 2020**
 > Interactive Data Partners help schools use their data better with a variety of consulting, data integration and data visualization solutions.
 
@@ -84,8 +84,7 @@ the audience’s attention
 * Provides reliable financial forecasts to Management
 * Manages stakeholder relationships
 * Manages internal as well as external resources
-* Advise customers on how HPE is positioned relative to the competition
-* key IT issues
+* Advise customers on how HPE is positioned relative to the competition's key IT issues
 * Balances clients’ needs and protects HPE commercial needs
 * Conduct presentations for CEO/CTO level audiences
 
