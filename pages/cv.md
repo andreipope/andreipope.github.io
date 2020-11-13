@@ -43,7 +43,8 @@ layout: cv
 > Interactive Data Partners help schools use their data better with a variety of consulting, data integration and data visualization solutions.
 
 **Key responsibilities:**
-* Ensure that the offshore (India) development team stays on schedule and on the budget on approximately 8 ongoing projects with 1-3 new projects rolling on and off each month. All projects are related to helping schools report and analyze data using online dashboards and other solutions. Communicate project progress to customers and resolve/escalate issues as needed
+* Ensure that the offshore (India) development team stays on schedule and on the budget on approximately 8 ongoing projects with 1-3 new projects rolling on and off each month. All projects are related to helping schools report and analyze data using online dashboards and other solutions.
+* Communicate project progress to customers and resolve/escalate issues as needed
 * The main components of ongoing projects are monthly calls with customers to brainstorm new solutions and coordination with the development team to create prototypes of the new ideas and then execute the ideas that look promising. New projects also have elements of data integration to organize and confirm a school's data is complete and accurate, and implementation of our baseline solutions (like a starter package)
 
 
