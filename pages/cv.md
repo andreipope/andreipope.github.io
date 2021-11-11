@@ -30,7 +30,7 @@ layout: cv
 
 **Key Responsibilities:**
 * Research, write, and maintain [developer documentation](https://loomx.io/developers/en)
-* Work collaboratively with internal teams to create developer documentation based on best practices and use cases for external developers/partners
+* Work collaboratively with the engineering, business development, and marketing teams to create developer documentation based on best practices and use cases.
 * Write and publish release notes
 * Develop new [CryptoZombies](https://cryptozombies.io/) lessons
 * Create and maintain the Loom examples [GitHub repository](https://github.com/loomnetwork/loom-examples)
