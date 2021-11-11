@@ -1,5 +1,5 @@
 ---
-title: Package an Express.JS application as a multi-container application with Docker compose
+title: How to Package an Express.JS application as a multi-container application with Docker compose
 description: This tutorial is designed to show how you can package an Express.JS as a multi-container application with Docker compose.
 layout: tutorial
 permalink: tutorials/package-expressjs-as-a-multi-container-application-with-docker-compose

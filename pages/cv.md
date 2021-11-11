@@ -6,43 +6,49 @@ layout: cv
 
 > **10 years of experience working for one of the world's largest enterprise IT companies.**
 
-> **Comprehensive knowledge and understanding of hardware, software and services segments.**
+> **Comprehensive knowledge and understanding of hardware, software, and services segments.**
 
 
 ## EXPERIENCE
 
-### Portworx, Inc., Technical Writer (Contractor)
+### Portworx (Acquired by Pure Storage), Technical Writer
 **March 2019 - Jul 2021**
 > Portworx Enterprise is the Kubernetes storage platform trusted in production by the world’s leading enterprises.
 
-**Key responsibilities:**
-* Write documentation for [Portworx Enterprise](https://docs.portworx.com) and [PX-Backup](https://backup.docs.portworx.com)
-* Maintain and improve the documentation toolchain
+**Key Responsibilities:**
+* Write documentation for [Portworx Enterprise](https://docs.portworx.com) and [PX-Backup](https://backup.docs.portworx.com).
+* Write and publish release notes
+* Use information gathered from software design documents, interview subject matter experts
+* Take screen captures and create illustrations
+* Maintain documentation toolchain and versioning
+* Integrate Swagger with Hugo to generate documentation for [PX-Backup API](https://backup.docs.portworx.com/reference/rest-api/)
+* Implemented federated search, allowing users to search and see results across multiple products.
 
 ### Loom Network Inc., Technical Writer and Developer Support
 **January 2018- PRESENT**
 > Loom Network is a multichain interop platform live in production since early 2018. Optimized for scaling high-performance dapps that require a fast and smooth user experience, the network allows dapps to offer a UX comparable to traditional applications and onboard new users without the friction of needing to download crypto wallet software.
 
-**Key responsibilities:**
-* Write and maintain [developer documentation](https://loomx.io/developers/en) for Loom Network
+**Key Responsibilities:**
+* Research, write, and maintain [developer documentation](https://loomx.io/developers/en)
+* Work collaboratively with internal teams to create developer documentation based on best practices and use cases for external developers/partners
 * Write and publish release notes
 * Develop new [CryptoZombies](https://cryptozombies.io/) lessons
 * Create and maintain the Loom examples [GitHub repository](https://github.com/loomnetwork/loom-examples)
-* Provide developer support
-* Provide validator support
+* Provide support for developers
+* Provide support for validators
 
-### Appfleet, Technical Writer (Contractor)
+### Appfleet, Technical Writer
 **February 2020- June 2020**
-> Appfleet is a cloud-based container hosting platform that allows developers to deploy their code in any language, framework or technology.
+> Appfleet is a cloud-based container hosting platform that allows developers to deploy their code in any language, framework, or technology.
 
-**Key responsibilities:**
-* Create Docker and Kubernetes tutorials for Appfleet.
+**Key Responsibilities:**
+* Write Docker and Kubernetes tutorials for Appfleet.
 
-### Interactive Data Partners, Ed Tech Project Manager (Contractor)
+### Interactive Data Partners, Ed Tech Project Manager
 **January 2019- May 2020**
-> Interactive Data Partners help schools use their data better with a variety of consulting, data integration and data visualization solutions.
+> Interactive Data Partners help schools use their data better with a variety of consulting, data integration, and data visualization solutions.
 
-**Key responsibilities:**
+**Key Responsibilities:**
 * Ensure that the offshore (India) development team stays on schedule and on the budget on approximately 8 ongoing projects with 1-3 new projects rolling on and off each month. All projects are related to helping schools report and analyze data using online dashboards and other solutions.
 * Communicate project progress to customers and resolve/escalate issues as needed.
 * The main components of ongoing projects are monthly calls with customers to brainstorm new solutions and coordination with the development team to create prototypes of the new ideas and then execute the ideas that look promising. New projects also have elements of data integration to organize and confirm a school's data is complete and accurate, and implementation of our baseline solutions (like a starter package).
@@ -52,10 +58,9 @@ layout: cv
 **February 2018- April 2020**
 > CryptoManiaks is an authoritative cryptocurrency learning platform dedicated to newcomers and beginners. The team is comprised of cryptocurrency investors from all over the globe, and our members come from traditional industries such as finance and engineering to more modern professions like full stack developers and data scientists.
 
-**Key responsibilities:**
-* Develop the content strategy aligned the company’s marketing targets
-* Collaborate with marketing and design teams to plan and develop site
-content
+**Key Responsibilities:**
+* Develop the content strategy aligned to the company’s marketing targets
+* Collaborate with marketing and design teams to plan and develop the content
 * Create and publish engaging content
 * Edit, proofread and improve writers’ posts
 * Liaise with content writers to ensure brand consistency
@@ -78,7 +83,7 @@ the audience’s attention
 **August 2014 - March 2017**
 >The leader of the technical team, covering the entire lifecycle of the project from pre-sales to delivery and support
 
-**Key responsibilities:**
+**Key Responsibilities:**
 * Responsible for working with senior customer staff, from both a business and IT perspective. Has a level of understanding across the breadth of HPE’s product set and technology architectures.
 * Manages large/complex projects in designated accounts
 * Manages project financials including business impact
@@ -93,8 +98,8 @@ the audience’s attention
 **February 2011 - August 2014**
 >Managed the HPE Romania Presales Team, 6 direct reports.
 
-**Key responsibilities:**
-* Contributed to the overall country performance of overachieving quota (110%) Built and managed HPE Demo Center, designed to showcase HPE’s innovative solutions, delivered trainings and presentations to sales team/partners/customers.
+**Key Responsibilities:**
+* Contributed to the overall country performance of overachieving quota (110%) Built and managed HPE Demo Center, designed to showcase HPE’s innovative solutions, delivered presentations to sales team/partners/customers.
 * Assisted sales organization in the qualification of customer needs
 * Worked on the execution of specific sales strategies
 * Trained Sales Team and Partners on new products and features
@@ -109,11 +114,11 @@ the audience’s attention
 **December 2007 - February 2011**
 >The leader of the technical team, covering the entire lifecycle of the project from pre-sales to delivery and support
 
-**Key responsibilities:**
+**Key Responsibilities:**
 * Technical lead for the largest projects
 * Developed detailed work plans and schedules for medium to long
 projects (1-3 years)
-* Led consultants, architects, and analysts in order to ensure project
+* Led consultants, architects, and analysts to ensure project
 success
 * Developed and promoted innovative solutions, helping cut project
 costs
@@ -126,18 +131,18 @@ developing solutions across IT project teams.
 **June 2004 - December 2007**
 >Manager for the software project teams.
 
-**Key responsibilities:**
+**Key Responsibilities:**
 * Acted as a single point of contact for the customer’s perspective.
 * Responsible for preparing the project documentation for internal
 approvals
 * Responsible for submitting commercial and technical offers to
-customers, negotiation and contract signing
+customers, negotiation, and contract signing
 * In charge of project planning and execution monitoring
 * In charge of knowledge transfer to support team
 * Used both Agile and Waterfall development methodologies
 
 
-###  CRIPS Romania, Bucharest​ - IT Administrator
+### CRIPS Romania, Bucharest​ - IT Administrator
 **January 2001 - June 2004**
 > IT Administrator for a heterogeneous environment (Windows & Linux)
 
@@ -145,7 +150,7 @@ customers, negotiation and contract signing
 
 * Computer Science, Polytechnics University, Bucharest (October 1998 - June 2002)
 
-##  Certifications
+## Certifications
 
 * Project Management (CODECS Romania/The Open University UK)
 * TOGAF (The Open Group Architecture Framework)
@@ -155,6 +160,15 @@ customers, negotiation and contract signing
 
 ## Skills
 
+## Markup Languages
+
+* Markdown
+* Asciidoc
+### Static site generators
+
+* Hugo
+* Jekyll
+* Docusaurus
 ### Programming Languages
 
 * C, C++
@@ -176,11 +190,6 @@ customers, negotiation and contract signing
 * Ethereum smart contracts
 * Truffle suite
 * Remix
-
-### Static site generators
-
-* Hugo
-* Jekyll
 
 ### DevOps Tools
 

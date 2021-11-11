@@ -2,23 +2,18 @@
 layout: default
 ---
 
-My name is Andrei and I'm an experienced technical writer. I worked for over 10 years for one of the Fortune 500 companies: Hewlett-Packard Enterprise. I love to write in an accessible style, to break down difficult subjects and make them fresh, relevant, and engaging.
+My name is Andrei, and I'm an experienced technical writer. I worked for over ten years for one of the Fortune 500 companies: Hewlett-Packard Enterprise. I love to write in an accessible style, to break down difficult subjects and make them fresh, relevant, and engaging.
 
 I like to not only get things done but get things done in the proper way.
 
 Below are a few samples of my writing.
+## Writing Samples
 
-## Tutorials
-
-### Docker series
-
-* [Containerize a JavaScript application](/tutorials/containerize-javascript-application)
+* [How to Containerize a JavaScript Application](/tutorials/containerize-javascript-application)
 <!--* [Deploy a multi-container application with docker-compose](/tutorials/deploy-multi-container-application-docker-compose)-->
+* [How to Create a Local Kubernetes Cluster with Multipass and K3s](/tutorials/create-a-cluster-with-multipass-and-k3s)
 
-### Kubernetes series
-* [Create a local Kubernetes cluster with Multipass and K3s](/tutorials/create-a-cluster-with-multipass-and-k3s)
-
-## Writing samples
+## Other Writing Samples
 
 <!-- Deploy Serverless Functions with OpenFaaS -->
 <!-- Everything You Need to Know About Buildah -->
@@ -38,13 +33,13 @@ Below are a few samples of my writing.
 
 [CryptoZombies](https://cryptozombies.io/) is an interactive school that teaches all things technical about blockchains.
 
-## Doc sets I've worked on
+## Doc Sets I've Worked On
 
 * [Portworx](https://docs.portworx.com/). Portworx is the #1 Kubernetes
 storage platform.
+* [PX Backup](https://backup.docs.portworx.com/). PX-Backup is a Kubernetes backup solution that allows you to back up and restore applications and their data across multiple clusters.
 * [Loom Developer Docs](https://loomx.io/developers/). Loom Network is a multichain interoperability platform — live in production — that's connected to other major blockchains such as Ethereum, Binance Chain, and Tron.
 
-
-## Code samples
+## Code Samples
 
 * [Loom Examples GitHub Repository](https://github.com/loomnetwork/loom-examples)

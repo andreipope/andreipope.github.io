@@ -1,5 +1,5 @@
 ---
-title: Containerize a JavaScript application
+title: How to Containerize a JavaScript application
 description: This tutorial shows how you can build a Docker image that contains a JavaScript application.
 layout: tutorial
 permalink: /tutorials/containerize-javascript-application
