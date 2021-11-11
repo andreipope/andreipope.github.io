@@ -81,7 +81,7 @@ the audience’s attention
 
 ### Hewlett-Packard Enterprise, Bucharest​ - Lead Enterprise Architect
 **August 2014 - March 2017**
->The leader of the technical team, covering the entire lifecycle of the project from pre-sales to delivery and support
+>The leader of the technical team, covering the entire lifecycle of the project from presales to delivery and support
 
 **Key Responsibilities:**
 * Responsible for working with senior customer staff, from both a business and IT perspective. Has a level of understanding across the breadth of HPE’s product set and technology architectures.
@@ -112,7 +112,7 @@ the audience’s attention
 
 ## Hewlett-Packard Enterprise, Bucharest​ - Lead Enterprise Architect
 **December 2007 - February 2011**
->The leader of the technical team, covering the entire lifecycle of the project from pre-sales to delivery and support
+>The leader of the technical team, covering the entire lifecycle of the project from presales to delivery and support
 
 **Key Responsibilities:**
 * Technical lead for the largest projects
