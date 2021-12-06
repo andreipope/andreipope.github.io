@@ -12,11 +12,8 @@ Below are a few samples of my writing.
 * [How to Containerize a JavaScript Application](/tutorials/containerize-javascript-application)
 <!--* [Deploy a multi-container application with docker-compose](/tutorials/deploy-multi-container-application-docker-compose)-->
 * [How to Create a Local Kubernetes Cluster with Multipass and K3s](/tutorials/create-a-cluster-with-multipass-and-k3s)
-
-## Other Writing Samples
-
-<!-- Deploy Serverless Functions with OpenFaaS -->
-<!-- Everything You Need to Know About Buildah -->
+* [Create Serverless Functions with OpenFaaS](https://appfleet.com/blog/create-serverless-functions-with-openfaas/)
+* [Everything You Need to Know About Buildah](https://appfleet.com/blog/everything-you-need-to-know-about-buildah/)
 * [Podman for Docker Users](https://appfleet.com/blog/podman-for-docker-users/)
 * [First Steps with the Kubernetes Operator](https://appfleet.com/blog/first-steps-with-the-kubernetes-operator/)
 * [How to Build A Kubernetes Operator](https://appfleet.com/blog/how-to-build-a-kubernetes-operator/)
