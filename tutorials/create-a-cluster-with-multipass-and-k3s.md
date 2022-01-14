@@ -9,7 +9,7 @@ This tutorial is designed to show how you can create a local Kubernetes cluster 
 
 ## Prerequisites
 
-* You need to have a running Linux or macOS machine.
+* {% include prerequisites-linux-macos.md %}
 * `kubectl`. Refer to the [Install and Set Up kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) page for details about how you can install `kubectl`.
 
 ## Create three virtual machines
