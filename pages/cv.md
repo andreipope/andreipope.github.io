@@ -106,13 +106,13 @@ platforms to increase web traffic
 the audience’s attention
 
 ### Best Business Advisors, Bucharest- Founder
-**March 2017- August 2018**
+**March 2017- March 2018**
 > Best Business Advisors offers project management services to help companies improve project profitability, streamline costs, manage limited resources and achieve on-time delivery.
 
 
 ### Hewlett-Packard Enterprise, Bucharest​ - Lead Enterprise Architect
 **August 2014 - March 2017**
->The leader of the technical team, covering the entire lifecycle of the project from presales to delivery and support
+>Leader of the technical team, covering the entire lifecycle of the project from presales to delivery and support
 
 **Key Responsibilities:**
 * Responsible for working with senior customer staff, from both a business and IT perspective. Has a level of understanding across the breadth of HPE’s product set and technology architectures.
@@ -125,37 +125,6 @@ the audience’s attention
 * Balances clients’ needs and protects HPE commercial needs
 * Conduct presentations for CEO/CTO level audiences
 
-### Hewlett-Packard Enterprise, Bucharest​ - Presales Manager
-**February 2011 - August 2014**
->Managed the HPE Romania Presales Team, 6 direct reports.
-
-**Key Responsibilities:**
-* Contributed to the overall country performance of overachieving quota (110%) Built and managed HPE Demo Center, designed to showcase HPE’s innovative solutions, delivered presentations to sales team/partners/customers.
-* Assisted sales organization in the qualification of customer needs
-* Worked on the execution of specific sales strategies
-* Trained Sales Team and Partners on new products and features
-* Oversaw project management of pre-sales activities
-* Worked to develop appropriate marketing plans
-* Qualify opportunities and assign resources to sales opportunities
-* Conducted presentations for CEO/CTO level audiences
-* Transformed presales team approach from reactive to proactive
-
-
-## Hewlett-Packard Enterprise, Bucharest​ - Lead Enterprise Architect
-**December 2007 - February 2011**
->The leader of the technical team, covering the entire lifecycle of the project from presales to delivery and support
-
-**Key Responsibilities:**
-* Technical lead for the largest projects
-* Developed detailed work plans and schedules for medium to long
-projects (1-3 years)
-* Led consultants, architects, and analysts to ensure project
-success
-* Developed and promoted innovative solutions, helping cut project
-costs
-* Created design standards, templates, and training materials for use in
-developing solutions across IT project teams.
-* Intimately involved in writing the technical proposals
 
 
 ### Modulo Consulting (Axigen), Bucharest​ - Project Manager
