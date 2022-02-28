@@ -11,6 +11,24 @@ layout: cv
 
 ## EXPERIENCE
 
+### Loom Network Inc., Head of Technical Content
+**January 2018- PRESENT**
+> Loom Network is a multichain interop platform live in production since early 2018. Optimized for scaling high-performance dapps that require a fast and smooth user experience, the network allows dapps to offer a UX comparable to traditional applications and onboard new users without the friction of needing to download crypto wallet software.
+
+> Loom Network also created [CryptoZombies](https://cryptozombies.io/), an interactive school that teaches all things technical about blockchains. The platform is free, used by more than 500,000 developers worldwide, and is ranked by the latest [Solidity survey](https://blog.soliditylang.org/2021/01/26/solidity-developer-survey-2020-results/) as one of the most valuable learning resources for new blockchain developers.
+
+
+**Key Responsibilities:**
+* Develop content strategy.
+* Develop standards, systems, and best practices for content creation.
+* Ensure all content is consistent in terms of style, quality, and tone of voice.
+* Supervise writers to ensure that the content is created according to the company's style guide.
+* Develop and own relationships with content partners.
+* Create new [CryptoZombies](https://cryptozombies.io/) lessons.
+* Research, write, and maintain [developer documentation](https://loomx.io/developers/en).
+* Work collaboratively with the engineering, business development, and marketing teams.
+* Write and publish release notes.
+* Create and maintain the Loom examples [GitHub repository](https://github.com/loomnetwork/loom-examples).
 ### SigNoz, Technical Writer
 **January 2022- PRESENT**
 > SigNoz is an open-source application performance monitoring tool that helps you monitor your applications and troubleshoot problems.
@@ -48,19 +66,6 @@ layout: cv
 * Maintain documentation toolchain and versioning
 * Integrate Swagger with Hugo to generate documentation for [PX-Backup API](https://backup.docs.portworx.com/reference/rest-api/)
 * Implement federated search, allowing users to search and see results across multiple products.
-
-### Loom Network Inc., Technical Writer and Developer Support
-**January 2018- PRESENT**
-> Loom Network is a multichain interop platform live in production since early 2018. Optimized for scaling high-performance dapps that require a fast and smooth user experience, the network allows dapps to offer a UX comparable to traditional applications and onboard new users without the friction of needing to download crypto wallet software.
-
-**Key Responsibilities:**
-* Research, write, and maintain [developer documentation](https://loomx.io/developers/en)
-* Work collaboratively with the engineering, business development, and marketing teams to create developer documentation
-* Write and publish release notes
-* Develop new [CryptoZombies](https://cryptozombies.io/) lessons
-* Create and maintain the Loom examples [GitHub repository](https://github.com/loomnetwork/loom-examples)
-* Provide support for developers
-* Provide support for validators
 
 ### Appfleet, Technical Writer
 **February 2020- June 2020**
