@@ -11,7 +11,31 @@ layout: cv
 
 ## EXPERIENCE
 
-### Portworx (Acquired by Pure Storage), Technical Writer
+### SigNoz, Technical Writer
+**January 2022- PRESENT**
+> SigNoz is an open-source application performance monitoring tool that helps you monitor your applications and troubleshoot problems.
+
+**Key Responsibilities:**
+* Improve [documentation](https://signoz.io/docs/) architecture through topic-based authoring.
+* Use a docs-as-code workflow 
+
+### Iagon, Technical Writer
+**December 2021- PRESENT**
+> Iagon aims to build a marketplace for decentralized storage and computing resources.
+
+**Key Responsibilities:**
+* Create and maintain the [whitepaper](https://whitepaper.iagon.com).
+* Use a docs-as-code workflow 
+
+### Softpay, Technical Writer
+**September 2020 - January 2021**
+> Softpay is a mobile application that allows merchants to turn a regular phone into a contactless payment terminal without additional dedicated hardware.
+
+**Key Responsibilities:**
+* Create and maintain developer documentation
+* Establish standards for documentation contributions using topic-based authoring
+* Use a docs-as-code workflow 
+### Portworx, Technical Writer
 **March 2019 - Jul 2021**
 > Portworx Enterprise is the Kubernetes storage platform trusted in production by the world’s leading enterprises.
 
@@ -22,7 +46,7 @@ layout: cv
 * Take screen captures and create illustrations
 * Maintain documentation toolchain and versioning
 * Integrate Swagger with Hugo to generate documentation for [PX-Backup API](https://backup.docs.portworx.com/reference/rest-api/)
-* Implemented federated search, allowing users to search and see results across multiple products.
+* Implement federated search, allowing users to search and see results across multiple products.
 
 ### Loom Network Inc., Technical Writer and Developer Support
 **January 2018- PRESENT**

@@ -44,6 +44,8 @@ Below are a few samples of my writing.
 * [Portworx](https://docs.portworx.com/). Portworx is the #1 Kubernetes
 storage platform.
 * [PX Backup](https://backup.docs.portworx.com/). PX-Backup is a Kubernetes backup solution that allows you to back up and restore applications and their data across multiple clusters.
+* [Iagon Whitepaper](https://whitepaper.iagon.com). Iagon aims to build a marketplace for decentralized storage and computing resources.
+* [SigNoz](https://signoz.io/docs/). SigNoz is an open-source application performance monitoring tool that helps you monitor your applications and troubleshoot problems.
 * [Loom Developer Docs](https://loomx.io/developers/). Loom Network is a multichain interoperability platform — live in production — that's connected to other major blockchains such as Ethereum, Binance Chain, and Tron.
 
 ## Code Samples
