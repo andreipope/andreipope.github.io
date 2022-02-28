@@ -34,7 +34,8 @@ layout: cv
 **Key Responsibilities:**
 * Create and maintain developer documentation
 * Establish standards for documentation contributions using topic-based authoring
-* Use a docs-as-code workflow 
+* Use a docs-as-code workflow
+
 ### Portworx, Technical Writer
 **March 2019 - Jul 2021**
 > Portworx Enterprise is the Kubernetes storage platform trusted in production by the world’s leading enterprises.
