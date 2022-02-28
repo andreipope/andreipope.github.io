@@ -29,6 +29,7 @@ layout: cv
 * Work collaboratively with the engineering, business development, and marketing teams.
 * Write and publish release notes.
 * Create and maintain the Loom examples [GitHub repository](https://github.com/loomnetwork/loom-examples).
+
 ### SigNoz, Technical Writer
 **January 2022- PRESENT**
 > SigNoz is an open-source application performance monitoring tool that helps you monitor your applications and troubleshoot problems.
