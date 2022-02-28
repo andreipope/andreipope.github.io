@@ -46,7 +46,8 @@ storage platform.
 * [PX Backup](https://backup.docs.portworx.com/). PX-Backup is a Kubernetes backup solution that allows you to back up and restore applications and their data across multiple clusters.
 * [Iagon Whitepaper](https://whitepaper.iagon.com). Iagon aims to build a marketplace for decentralized storage and computing resources.
 * [SigNoz](https://signoz.io/docs/). SigNoz is an open-source application performance monitoring tool that helps you monitor your applications and troubleshoot problems.
-* [Loom Developer Docs](https://loomx.io/developers/). Loom Network is a multichain interoperability platform — live in production — that's connected to other major blockchains such as Ethereum, Binance Chain, and Tron.
+* [Softpay Developer Documentation](https://softpay.io). Softpay is a mobile application that allows merchants to turn a regular phone into a contactless payment terminal without additional dedicated hardware. The documentation is behind a paywall.
+* [Loom Developer Documentation](https://loomx.io/developers/). Loom Network is a multichain interoperability platform — live in production — that's connected to other major blockchains such as Ethereum, Binance Chain, and Tron.
 
 ## Code Samples
 
