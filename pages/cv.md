@@ -30,6 +30,7 @@ layout: cv
 * Write and publish release notes.
 * Create and maintain the Loom examples [GitHub repository](https://github.com/loomnetwork/loom-examples).
 
+<!--
 ### SigNoz, Technical Writer
 **January 2022- PRESENT**
 > SigNoz is an open-source application performance monitoring tool that helps you monitor your applications and troubleshoot problems.
@@ -104,7 +105,7 @@ platforms to increase web traffic
 * Ensure compliance with the law (e.g. copyright and data protection)
 * Stay up-to-date with developments and generate new ideas to draw
 the audience’s attention
-
+-->
 ### Best Business Advisors, Bucharest- Founder
 **March 2017- March 2018**
 > Best Business Advisors offers project management services to help companies improve project profitability, streamline costs, manage limited resources and achieve on-time delivery.
